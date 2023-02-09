@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Education
+- [University of Tennessee, Knoxville](https://www.utk.edu/) (2021-)
+- Korea University
+
+## Employment
+- [Korea Research Institute for Human Settlement](https://www.krihs.re.kr/eng/) (2017-2021)
+
+## Projects
+
 <!--
 **ChangwhaOh/ChangwhaOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
