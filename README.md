@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![UTK Badge](https://img.shields.io/badge/UTK-GradStudent-orange)](https://www.utk.edu/)
 
 ## Education
 - [University of Tennessee, Knoxville](https://www.utk.edu/) (2021-)
