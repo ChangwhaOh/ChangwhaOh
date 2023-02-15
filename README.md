@@ -7,8 +7,8 @@
 - B.A. in Geography Education and B.E. in Statistics, [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) (2009-2015)
 
 ## Work Experiences
-- Associate Research Fellow, [Korea Research Institute for Human Settlement (KRIHS)](https://www.krihs.re.kr/eng/) (2021)
-- Senior Researcher, [Korea Research Institute for Human Settlement (KRIHS)](https://www.krihs.re.kr/eng/) (2017-2021)
+- Associate Research Fellow, [Korea Research Institute for Human Settlements (KRIHS)](https://www.krihs.re.kr/eng/) (2021)
+- Senior Researcher, [Korea Research Institute for Human Settlements (KRIHS)](https://www.krihs.re.kr/eng/) (2017-2021)
 
 ## Research Interests
 - Location modeling and spatial optimization
