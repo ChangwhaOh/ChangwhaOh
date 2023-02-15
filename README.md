@@ -6,10 +6,14 @@
 - M.A. in Geography, [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) (2015-2017)
 - B.A. in Geography Education and Statistics, [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do) (2009-2015)
 
-## Employment
-- [Korea Research Institute for Human Settlement](https://www.krihs.re.kr/eng/) (2017-2021)
+## Work Experiences
+- Associate Research Fellow, [Korea Research Institute for Human Settlement (KRIHS)](https://www.krihs.re.kr/eng/) (2021)
+- Senior Researcher, [Korea Research Institute for Human Settlement (KRIHS)](https://www.krihs.re.kr/eng/) (2017-2021)
 
-## Projects
+## Research Interests
+- Location modeling and spatial optimization
+- Spatial statistics and analysis
+- GIS for socio-economic applications
 
 <!--
 **ChangwhaOh/ChangwhaOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
